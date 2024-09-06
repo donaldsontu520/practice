@@ -1,4 +1,5 @@
-# Student name
+
+# tucker donaldson
 # 04 SEP 2024
 # Variables Practice
 
