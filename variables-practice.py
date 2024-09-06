@@ -21,7 +21,7 @@
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Elk Rapids High School'
 favorite_singer = 'Lana del ray'
-
+greeting = 'Good morning!'
 
 
 # Part 2 / Working with Numbers (Numeric Data)
