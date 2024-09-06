@@ -22,16 +22,19 @@
 school = 'Elk Rapids High School'
 favorite_singer = 'Lana del ray'
 greeting = 'Good morning!'
-
+print(school)
+print(favorite_singer)
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
-
-
-
+my_age = 17
+conversion_factor = 2.54
+ book_price = 20.99
+print(my_age)
+print(book_price) 
 
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
@@ -39,3 +42,13 @@ greeting = 'Good morning!'
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+name = 'Tucker donaldson'
+city = 'rapid city'
+
+print(name)
+print(city)
+print(my_age)
+
+
+
